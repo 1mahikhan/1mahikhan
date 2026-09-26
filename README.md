@@ -1,10 +1,8 @@
-# Hi, I'm Mahi 👋
+# Mahi Khan
 
-I'm a Computer Science student at Queens College,
-interested in software engineering.
-## Connect with me
+I'm a Computer Science student at CUNY Queens College | Full-Stack Developer
 - [LinkedIn](https://www.linkedin.com/in/mahikhan1/)  - [LeetCode](https://leetcode.com/u/2005mahikhan/)
-  
+
 ## What I'm working on
 - MetroPath NYC, a student commute planner
 - Building projects with React, Next.js, and TypeScript

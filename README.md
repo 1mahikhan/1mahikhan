@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mahi 👋
 
-<!--
-**1mahikhan/1mahikhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Queens College,
+interested in software engineering.
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/mahikhan1/)  - [LeetCode](https://leetcode.com/u/2005mahikhan/)
+  
+## What I'm working on
+- MetroPath NYC, a student commute planner
+- Building projects with React, Next.js, and TypeScript
 
-Here are some ideas to get you started:
+## Technical Skills
+**Languages:** JavaScript, TypeScript, Python, C++, Java
+**Frontend:** HTML, CSS, React, Next.js  
+**Tools:** Git, GitHub, VS Code  
+**Data & Document Processing:** Pandas, OpenCV, PyMuPDF, Tesseract OCR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [MetroPath NYC](https://github.com/1mahikhan/metropath-nyc)
+- [Memory Card Game](https://memory-game-one-lemon-31.vercel.app/)
